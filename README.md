@@ -1,4 +1,4 @@
-## Alex's Website Portfolio
+# Alex's Website Portfolio
 
 [Website Portfolio](https://alexm710.github.io/web-portfolio/)
 
