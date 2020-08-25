@@ -1,6 +1,6 @@
 # Alex's Website Portfolio
 
-[Website Portfolio](https://alexm710.github.io/web-portfolio/)
+[Please click here to view my Website Portfolio](https://alexm710.github.io/web-portfolio/)
 
 ## Project Goal 
 This website aims to portray previous projects that I have completed in order to illustrate my work as good as possible. You can also find a brief TMAY along with some of my skills. 
