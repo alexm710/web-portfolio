@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-accent: #5cb0da;
     /* ADD8E6 light blue colour for accent? */
     
     --fs-h1: 3rem;
@@ -27,7 +27,7 @@
           0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
 
-@media (min-width: 800px) {
+@media (min-width: 800px) { /* Font sizes will change based on size of screen */
     :root {
         --fs-h1: 4.5rem;
         --fs-h2: 3.75rem;
@@ -397,7 +397,7 @@ header {
 }
 
 .portfolio__item {
-    background: var(--clr-accent);
+    background: var(--clr-light);
     overflow: hidden;
 }
 
